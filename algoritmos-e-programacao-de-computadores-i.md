@@ -49,25 +49,14 @@ Da definição exposta anteriormente, pode-se extrair as seguintes característi
 
 Os valores lógicos ou booleanos (em homenagem a George Boole, que elaborou a lógica booleana) são aqueles que representam apenas dois estados: um estado verdadeiro ou um estado falso.
 
-As variáveis utilizadas em um algoritmo devem ser escritas de modo claro, inteligível. Nesse sentido, convencionam-se algumas regras para nomear as variáveis:
+As variáveis utilizadas em um algoritmo devem ser escritas de modo claro, inteligível. Nesse sentido, convencionam-se algumas **regras para nomear as variáveis**:
 
-1\. Os nomes podem ter até 63 caracteres de comprimento.
+1. Os nomes podem ter até 63 caracteres de comprimento.
+2. Os nomes devem ser iniciados por um caractere alfabético (letra) ou pelo caractere “\_”
+3. Os nomes podem possuir números, desde que se iniciem por letra.
+4. Além de letras, números e o caractere “\_”, não é aceito nenhum outro símbolo.
+5. Letras fora do alfabeto ocidental, como as letras gregas, não são aceitas.
+6. Não se fará diferenciação entre as letras maiúsculas e minúsculas nos nomes de variáveis.
 
-2\. Os nomes devem ser iniciados por um caractere alfabético (letra) ou pelo caractere “\_”
-
-3\. Os nomes podem possuir números, desde que se iniciem por letra.
-
-4\. Além de letras, números e o caractere “\_”, não é aceito nenhum outro símbolo.
-
-5\. Letras fora do alfabeto ocidental, como as letras gregas, não são aceitas.
-
-6\. Não se fará diferenciação entre as letras maiúsculas e minúsculas nos nomes de variáveis.
-
-\
-
-
-\
-
-
-Atribuição é a operação que permite armazenar um valor em uma variável.
+**Atribuição** é a operação que permite armazenar um valor em uma variável.
 
