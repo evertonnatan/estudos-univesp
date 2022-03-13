@@ -61,3 +61,19 @@ As variáveis utilizadas em um algoritmo devem ser escritas de modo claro, intel
 **Atribuição** é a operação que permite armazenar um valor em uma variável.
 
 ## <mark style="color:red;">**Livro: Python3 – Conceitos e aplicações: uma abordagem didática**</mark>
+
+### <mark style="color:purple;">Anotações:</mark>
+
+<mark style="color:purple;"></mark>
+
+<mark style="color:green;">**Conceito de algoritmo**</mark><mark style="color:green;">:</mark> Um algoritmo é uma sequência bem definida e ordenada de passos necessários à solução de algum problema.
+
+\
+Em uma contínua trajetória evolutiva, a linguagem Python reúne características relevantes, tais como:
+
+* **Portabilidade**: seu código-fonte é escrito em linguagem ANSI C, e o interpretador Python, bem como suas bibliotecas-padrão, está disponível para um extenso leque de plataformas, que incluem Unix, Linux, Windows (todas as versões), macOS, BeOS, VMS, entre outras. Isso significa que um programa escrito em Python e que utilize apenas as bibliotecas-padrão será executado da mesma maneira em qualquer uma dessas plataformas.
+* **Código livre** (opensource): o fato de Python ser opensource significa que pode ser utilizado e distribuído livremente. Ele pode ser utilizado por um programador para desenvolver e distribuir um software, assim como seu código-fonte pode ser baixado, adaptado e utilizado sem qualquer restrição.
+* **Simplicidade com robustez**: Python é simples como as linguagens de programação de scripts como Perl e Scheme. Por outro lado, conta com recursos que a equiparam a linguagens como C, C++ e Java, permitindo o desenvolvimento de grandes projetos que podem ser constituídos por diversos módulos, que acessem bancos de dados, que enviem e recebam dados por meio de redes, trabalhem com recursos multimídia, entre outros. Python também dispõe de mecanismos que permitem a integração com softwares escritos em outras linguagens, como C, C++ e Java.&#x20;
+* **Fácil de aprender**: dizer que Python é fácil de aprender implica entender como seria aprender uma linguagem considerada difícil. Ao iniciante que ainda não conhece linguagem alguma, talvez a primeira seja algo difícil de conseguir entender. Nesse caso, surge a dúvida: será que é mesmo fácil de aprendê-la? Para responder a isso, cabe olhar para o artigo já <mark style="color:red;">****</mark> mencionado (GUO, 2014), que mostra a grande adesão das universidades norte-americanas à Python como linguagem de programação introdutória.&#x20;
+* **Grande aplicabilidade**: o Python pode ser utilizado em um grande número de áreas do desenvolvimento de software, das quais se destacam: ferramentas para administração e interface com sistemas operacionais; aplicações que trabalhem com grandes volumes de dados armazenados em sistemas gerenciadores de bancos de dados, como Oracle, SAL Server, MySAL e outros; aplicações gráficas e multimídia; desenvolvimento de jogos digitais; programação para internet; desenvolvimento de software para engenharia; aplicações científicas.
+* **Uma das características mais marcantes da comunidade de desenvolvedores Python** é seu conservadorismo com relação a mudanças que possam causar incompatibilidade retroativa.
