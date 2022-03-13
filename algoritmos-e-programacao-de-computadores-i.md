@@ -4,7 +4,7 @@ description: Disciplina constante da grade de estudos - 2º semestre, 1º bimest
 
 # 🖥 Algoritmos e Programação de Computadores I
 
-## Livro: Introdução à Computação Usando Python
+## <mark style="color:red;">Livro: Introdução à Computação Usando Python</mark>
 
 ### <mark style="color:purple;">Anotações:</mark>&#x20;
 
@@ -18,7 +18,7 @@ description: Disciplina constante da grade de estudos - 2º semestre, 1º bimest
 * A finalidade das variáveis é armazenar valores de modo que possam ser recuperados mais tarde.
 * A palavra iteração significa “_a ação de repetir um processo_”.
 
-## Livro: Algoritmos e Lógica de Programação&#x20;
+## <mark style="color:red;">Livro: Algoritmos e Lógica de Programação</mark>&#x20;
 
 **Autores**: Marco A. Furlan de Souza, Marcelo Marques Gomes, Márcio Vieira Soares e Ricardo Concilio.&#x20;
 
@@ -60,3 +60,4 @@ As variáveis utilizadas em um algoritmo devem ser escritas de modo claro, intel
 
 **Atribuição** é a operação que permite armazenar um valor em uma variável.
 
+## <mark style="color:red;">**Livro: Python3 – Conceitos e aplicações: uma abordagem didática**</mark>
