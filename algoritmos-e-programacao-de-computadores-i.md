@@ -77,3 +77,16 @@ Em uma contínua trajetória evolutiva, a linguagem Python reúne característic
 * **Fácil de aprender**: dizer que Python é fácil de aprender implica entender como seria aprender uma linguagem considerada difícil. Ao iniciante que ainda não conhece linguagem alguma, talvez a primeira seja algo difícil de conseguir entender. Nesse caso, surge a dúvida: será que é mesmo fácil de aprendê-la? Para responder a isso, cabe olhar para o artigo já <mark style="color:red;">****</mark> mencionado (GUO, 2014), que mostra a grande adesão das universidades norte-americanas à Python como linguagem de programação introdutória.&#x20;
 * **Grande aplicabilidade**: o Python pode ser utilizado em um grande número de áreas do desenvolvimento de software, das quais se destacam: ferramentas para administração e interface com sistemas operacionais; aplicações que trabalhem com grandes volumes de dados armazenados em sistemas gerenciadores de bancos de dados, como Oracle, SAL Server, MySAL e outros; aplicações gráficas e multimídia; desenvolvimento de jogos digitais; programação para internet; desenvolvimento de software para engenharia; aplicações científicas.
 * **Uma das características mais marcantes da comunidade de desenvolvedores Python** é seu conservadorismo com relação a mudanças que possam causar incompatibilidade retroativa.
+
+## <mark style="color:red;">**Livro: Introdução à Computação - hardware, software e Dados**</mark>
+
+<mark style="color:red;">****</mark>
+
+**Anotações de leitura:**\
+
+
+* **O que é Computação?** É qualquer atividade realizada para atender um objetivo claro, que beneficia, precisa ou cria dispositivos computacionais. No Michaelis Moderno Dicionário da Língua Portuguesa (2016): O termo **Computação** é definido como _ato ou efeito de computarqualquer trabalho ou atividade que envolva o uso do computador._  O termo **Informática** é definido como _o estudo da computação e do processamento de informações que abranjam todos os aspectos relacionados com hardware e software._
+* A **Computação/Informática** é uma ciência e arte que tem por objetivo coletar, produzir,processar e analisar dados, produzindo informação, que, por sua vez, pode gerar conhecimento.
+* É importante observar que existe uma sutil diferença nos conceitos de informação e dados. **Dados** são os valores associados a um problema qualquer, sem um significado bem definido. Quando um significado é associado aos dados, estes podem ser organizados de uma forma estruturada, dando origem a informações.
+
+![](https://www.evernote.com/shard/s608/res/828b5c52-c2e3-9082-fca0-0dac48ed3827)
