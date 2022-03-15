@@ -2,7 +2,7 @@
 description: Disciplina constante da grade de estudos - 2º semestre, 1º bimestre de 2022.
 ---
 
-# 🖥 Algoritmos e Programação de Computadores I
+# 🖥 Algoritmos e Programação de Computadores
 
 ## <mark style="color:red;">Livro: Introdução à Computação Usando Python</mark>
 
@@ -105,3 +105,6 @@ Em uma contínua trajetória evolutiva, a linguagem Python reúne característic
 9. pensar sobre as consequências sociais do programa que está escrevendo ou do sistema que está projetando;&#x20;
 10. sempre utilizar a Computação de forma a garantir consideração e respeito por outros seres humanos
 
+### 🔰 **Curiosidades:**
+
+<mark style="color:blue;">Uma matemática da época, Augusta Ada Byron, filha do famoso escritor inglês Lord Byron, e conhecida como Ada Lovelace, publicou um artigo no qual mostra como a máquina analítica poderia ser programada para realizar várias tarefas. Por isso, ela é conhecida como a primeira programadora de computadores. Por falta de financiamento, a máquina não foi completamente construída na época.</mark>
