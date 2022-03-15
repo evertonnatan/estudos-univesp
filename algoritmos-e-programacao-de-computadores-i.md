@@ -90,3 +90,18 @@ Em uma contínua trajetória evolutiva, a linguagem Python reúne característic
 * É importante observar que existe uma sutil diferença nos conceitos de informação e dados. **Dados** são os valores associados a um problema qualquer, sem um significado bem definido. Quando um significado é associado aos dados, estes podem ser organizados de uma forma estruturada, dando origem a informações.
 
 ![](https://www.evernote.com/shard/s608/res/828b5c52-c2e3-9082-fca0-0dac48ed3827)
+
+* Murugesan (2008) define Computação Verde como o estudo e a prática de projetar, construir, utilizar e descartar computadores e subsistemas associados (monitores, dispositivos de memória e equipamentos utilizados em redes de computadores e sistemas de comunicação) de forma eficiente e efetiva, com baixo ou nenhum impacto no meio ambiente.
+* Em 1992, o Instituto para Ética na Computação criou os <mark style="color:blue;">**dez mandamentos para ética na Computação**</mark>, que são:&#x20;
+
+1. não usar um computador para ferir outra pessoa;&#x20;
+2. não interferir no trabalho de Computação de outra pessoa;&#x20;
+3. não ler arquivos de Computação de outra pessoa;&#x20;
+4. não utilizar a Computação para roubar;&#x20;
+5. não usar a Computação para falso testemunho;&#x20;
+6. não copiar ou utilizar software proprietário sem ter pago por ele;&#x20;
+7. não utilizar recursos de Computação de outra pessoa sem autorização ou compensação adequada;&#x20;
+8. não se apropriar do trabalho intelectual de outra pessoa;&#x20;
+9. pensar sobre as consequências sociais do programa que está escrevendo ou do sistema que está projetando;&#x20;
+10. sempre utilizar a Computação de forma a garantir consideração e respeito por outros seres humanos
+
